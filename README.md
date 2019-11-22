@@ -1,4 +1,4 @@
-# demoPortfolio
+# Portfolio Demo
 
 A demo portfolio to showcase projects. built with CSS Grids
 <br/>
